@@ -1,0 +1,19 @@
+{
+  	"pack": {
+		"pack_format": 9,
+    	"description": [
+    		{
+				"text":"Version: ",
+				"color":"#ff5050"
+			},
+			{
+				"text":"1.16.5-1.19.2",
+				"color":"white"
+			},
+			{
+				"text":"\n(ignore *Incompatible* popup)",
+				"color":"yellow"
+			}
+		]
+  	}
+}
